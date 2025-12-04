@@ -1,4 +1,4 @@
-# Code-Blocks-Experiment-1
+# 7a) Implementation of go-back-n protocol-Sliding Window
 Implementation of Go-Back-N Protocol – Sliding Window
 
 🎯 Aim
@@ -67,10 +67,7 @@ void main() {
     printf("\nAll frames sent successfully.\n");
 }
 🖥️ Sample Output
-![WhatsApp Image 2025-08-29 at 09 21 39_2e34192f](https://github.com/user-attachments/assets/3ac6beb8-6894-4e37-966c-7716a0becdbe)
-
-![WhatsApp Image 2025-08-29 at 09 21 40_74bcd1c7](https://github.com/user-attachments/assets/fa5a2e0d-1986-4f94-b349-68960d011bef)
-
+<img width="1920" height="1080" alt="212222060192_SW" src="https://github.com/user-attachments/assets/ae997499-a752-4cba-bbbd-cd90aa30671e" />
 
 ✅ Result
 
